@@ -4,19 +4,29 @@ format: html
 editor: visual
 ---
 
-## Quarto
+## Aaron M. Kessler
+
+## Journalism / Data Science
+
+[Resume](https://github.com/amkessler/mywebsite/blob/main/functionalsample.pdf)
 
 [Quarto](https://quarto.org/) enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
 
 Home
 
+functionalsample.pdf
+
+I'm in the [School of Media and Public Affairs](https://smpa.gwu.edu/).
+
 ![](Everest_North_Face_toward_Base_Camp_Tibet_Luca_Galuzzi_2006.jpg)
 
-thing 1
+-   thing 1
 
-thing 2
+-   thing 2
 
-thing 3
+-   thing 3
+
+-   thing 4
 
 # Work examples
 
